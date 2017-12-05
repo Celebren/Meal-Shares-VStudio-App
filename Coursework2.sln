@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coursework2", "Coursework2\Coursework2.csproj", "{0BF852F5-AE81-4142-A3ED-73152B41F6A4}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "CrsWrk2Diagrams", "CrsWrk2Diagrams\CrsWrk2Diagrams.modelproj", "{859670BB-C7F3-4C15-97F2-7164CFD8892A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrsWrk2DiagramsLib", "CrsWrk2DiagramsLib\CrsWrk2DiagramsLib.csproj", "{20EAEB37-2C39-45DF-821B-6DFEE2E5ECE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF852F5-AE81-4142-A3ED-73152B41F6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF852F5-AE81-4142-A3ED-73152B41F6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF852F5-AE81-4142-A3ED-73152B41F6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF852F5-AE81-4142-A3ED-73152B41F6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859670BB-C7F3-4C15-97F2-7164CFD8892A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859670BB-C7F3-4C15-97F2-7164CFD8892A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859670BB-C7F3-4C15-97F2-7164CFD8892A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859670BB-C7F3-4C15-97F2-7164CFD8892A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EAEB37-2C39-45DF-821B-6DFEE2E5ECE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EAEB37-2C39-45DF-821B-6DFEE2E5ECE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EAEB37-2C39-45DF-821B-6DFEE2E5ECE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EAEB37-2C39-45DF-821B-6DFEE2E5ECE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

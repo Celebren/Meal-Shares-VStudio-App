@@ -1,0 +1,29 @@
+﻿<Window x:Name="mainScreen" x:Class="Coursework2.MainSystemScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Coursework2"
+        mc:Ignorable="d"
+        Title="Meal Sharers" Height="316" Width="398.364">
+    <Grid>
+        <Button x:Name="btnSecurityChks" Content="Security Checks" HorizontalAlignment="Left" Margin="20,96,0,0" VerticalAlignment="Top" Width="108" Click="btnSecurityChks_Click"/>
+
+
+        <Button x:Name="btnFriendsAndFamily" Content="Friends and Family" HorizontalAlignment="Left" Margin="20,146,0,0" VerticalAlignment="Top" Width="108" Click="btnFriendsAndFamily_Click"/>
+        <Button x:Name="btnViewEaters" Content="View Eaters" HorizontalAlignment="Left" Margin="20,121,0,0" VerticalAlignment="Top" Width="108" Click="btnViewEaters_Click"/>
+        <Button x:Name="btnViewMealShares" Content="View Meal Shares" HorizontalAlignment="Left" Margin="20,171,0,0" VerticalAlignment="Top" Width="108" Click="btnViewMealShares_Click"/>
+        <Button x:Name="btnLogOut" Content="Log Out" HorizontalAlignment="Left" Margin="335,13,0,0" VerticalAlignment="Top" Width="34" RenderTransformOrigin="0.982,0.485" Click="btnLogOut_Click" FontSize="8"/>
+        <Label x:Name="lblTitle" Content="Welcome to Meal Sharers&#10;Please select from the following:" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblLoggedInAs" Content="Logged in as:" HorizontalAlignment="Left" Margin="7,10,0,0" VerticalAlignment="Top" FontSize="10"/>
+        <Label x:Name="lblUsrName" Content="User Name" HorizontalAlignment="Left" Margin="69,10,0,0" VerticalAlignment="Top" FontSize="10"/>
+
+        <Label x:Name="lblChckStatus" Content="Security checks status:&#10;                                 PVG:&#10;Food Hygiene Certificate:   " HorizontalAlignment="Left" Margin="20,203,0,0" VerticalAlignment="Top" Width="144"/>
+        <Label x:Name="lblPVGStat" Content="" HorizontalAlignment="Left" Margin="169,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="3.43,0.5"/>
+        <Label x:Name="lblCertStat" Content="" HorizontalAlignment="Left" Margin="169,235,0,0" VerticalAlignment="Top" RenderTransformOrigin="3.43,0.5"/>
+        <ListView x:Name="lstviewEaters" HorizontalAlignment="Left" Height="100" Margin="184,91,0,0" VerticalAlignment="Top" Width="185" SelectionChanged="lstviewEaters_SelectionChanged"></ListView>
+        
+        <Button x:Name="btnSlctEater" Content="Select Eater" HorizontalAlignment="Left" Margin="294,191,0,0" VerticalAlignment="Top" Width="75" Click="btnSlctEater_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+D:\Rena\Personal Documents\Napier\Information Systems Engineering\Visual Studio Projects\Coursework2\CrsWrk2DiagramsLib\bin\Debug\CrsWrk2DiagramsLib.dll
+D:\Rena\Personal Documents\Napier\Information Systems Engineering\Visual Studio Projects\Coursework2\CrsWrk2DiagramsLib\bin\Debug\CrsWrk2DiagramsLib.pdb
+D:\Rena\Personal Documents\Napier\Information Systems Engineering\Visual Studio Projects\Coursework2\CrsWrk2DiagramsLib\obj\Debug\CrsWrk2DiagramsLib.csprojResolveAssemblyReference.cache
+D:\Rena\Personal Documents\Napier\Information Systems Engineering\Visual Studio Projects\Coursework2\CrsWrk2DiagramsLib\obj\Debug\CrsWrk2DiagramsLib.dll
+D:\Rena\Personal Documents\Napier\Information Systems Engineering\Visual Studio Projects\Coursework2\CrsWrk2DiagramsLib\obj\Debug\CrsWrk2DiagramsLib.pdb

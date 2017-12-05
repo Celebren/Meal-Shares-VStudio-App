@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2017-11-07T15:59:03" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Diagnostic" Text="ProjectPath = ..\CrsWrk2DiagramsLib\CrsWrk2DiagramsLib.csproj" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Medium" Text="CrsWrk2Diagrams's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'CrsWrk2Diagrams::Cook' -  (Class), 'CrsWrk2Diagrams::PVG' -  (Class), 'CrsWrk2Diagrams::Eater' -  (Class), 'CrsWrk2Diagrams::foodHygieneCertificate' -  (Class), 'CrsWrk2Diagrams::CooksList' -  (Class), 'CrsWrk2Diagrams::Address' -  (Class), 'CrsWrk2Diagrams::FreindsAndFamily' -  (Class), 'CrsWrk2Diagrams::EatersList' -  (Class), 'CrsWrk2Diagrams::MealShare' -  (Class), 'CrsWrk2Diagrams::MealSharesList' -  (Class) " />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Medium" Text="'CrsWrk2Diagrams::Cook' -  (Class) : success (file replaced) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\Cook.cs" />
+  <Message Timestamp="2017-11-07T15:59:04" Importance="Medium" Text="'CrsWrk2Diagrams::PVG' -  (Class) : success (file replaced) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\PVG.cs" />
+  <Message Timestamp="2017-11-07T15:59:05" Importance="Medium" Text="'CrsWrk2Diagrams::Eater' -  (Class) : success (file created) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\Eater.cs" />
+  <Message Timestamp="2017-11-07T15:59:05" Importance="Medium" Text="'CrsWrk2Diagrams::foodHygieneCertificate' -  (Class) : success (file replaced) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\foodHygieneCertificate.cs" />
+  <Message Timestamp="2017-11-07T15:59:05" Importance="Medium" Text="'CrsWrk2Diagrams::CooksList' -  (Class) : success (file created) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\CooksList.cs" />
+  <Message Timestamp="2017-11-07T15:59:05" Importance="Medium" Text="'CrsWrk2Diagrams::Address' -  (Class) : success (file created) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\Address.cs" />
+  <Message Timestamp="2017-11-07T15:59:06" Importance="Medium" Text="'CrsWrk2Diagrams::FreindsAndFamily' -  (Class) : success (file created) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\FreindsAndFamily.cs" />
+  <Message Timestamp="2017-11-07T15:59:06" Importance="Medium" Text="'CrsWrk2Diagrams::EatersList' -  (Class) : success (file created) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\EatersList.cs" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Medium" Text="'CrsWrk2Diagrams::MealShare' -  (Class) : success (file created) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\MealShare.cs" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Medium" Text="'CrsWrk2Diagrams::MealSharesList' -  (Class) : success (file created) - \\napier-mail.napier.ac.uk\students\School of Computing\User Data\40321603\Coursework2\CrsWrk2DiagramsLib\GeneratedCode\MealSharesList.cs" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="ProjectPath = ..\CrsWrk2DiagramsLib\CrsWrk2DiagramsLib.csproj" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Medium" Text="CrsWrk2Diagrams's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'CrsWrk2Diagrams::Cook' -  (Class), 'CrsWrk2Diagrams::PVG' -  (Class), 'CrsWrk2Diagrams::Eater' -  (Class), 'CrsWrk2Diagrams::foodHygieneCertificate' -  (Class), 'CrsWrk2Diagrams::CooksList' -  (Class), 'CrsWrk2Diagrams::Address' -  (Class), 'CrsWrk2Diagrams::FreindsAndFamily' -  (Class), 'CrsWrk2Diagrams::EatersList' -  (Class), 'CrsWrk2Diagrams::MealShare' -  (Class), 'CrsWrk2Diagrams::MealSharesList' -  (Class) " />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::Cook' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::PVG' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::Eater' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::foodHygieneCertificate' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::CooksList' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::Address' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::FreindsAndFamily' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::EatersList' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::MealShare' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::MealSharesList' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="The selection included 15 elements which were not bound to a template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::selects' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::views' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::views' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::views / posts comment' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::creates / uploads pictures' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::views' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::views' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="Diagnostic" Text="'CrsWrk2Diagrams::' -  (Association): no bound template." />
+  <Message Timestamp="2017-11-07T15:59:07" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

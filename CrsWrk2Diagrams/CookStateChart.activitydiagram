@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="f2d5db03-aec2-40da-9874-ca6c508aae0a" name="CookStateChart" linkedPackageId="9d640473-e246-4889-bba0-69cc456ea631" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <appliedStereotypesInternal>
+    <stereotypeInstance Id="222cf5ec-04ed-48b1-92f9-0af93edc9f63" name="namespace" profile="CSharpProfile">
+      <elementDefinition Id="4f414eff-c582-45f2-abd6-0755ec39637e" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="5d43b398-da04-4e2e-bdd8-34617a63c97c">
+          <propertyInstance Id="66d056e4-77f3-4ddb-b61c-addc5876d6f3" name="BaseName">
+            <elementDefinition Id="3c2757a5-cb11-465f-baee-b1d0e398ffde" />
+          </propertyInstance>
+          <elementDefinition Id="cf946db8-229c-4ca6-bf58-1f78a58c32fd" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="77b018b4-2e28-444d-a86d-6e9db3fd99d2">
+          <propertyInstance Id="a87ee9e9-3382-41a4-867a-fdcd47ed8cad" name="ClrAttributes">
+            <elementDefinition Id="ac187a80-e867-4b83-8b01-8c4237b2a520" />
+          </propertyInstance>
+          <elementDefinition Id="a4a04334-3aa8-4119-b682-78ba7d90000b" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="14633a35-a6f8-4cb6-b0e9-97730a1db836">
+          <propertyInstance Id="130b29d2-7fac-4e5f-9f14-f0cddc6e42d5" name="Usings">
+            <elementDefinition Id="c56d2cdf-3513-4caa-8397-51f02bfee522" />
+          </propertyInstance>
+          <elementDefinition Id="21f28ca3-6363-4276-8ad3-265e16ea96f0" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance Id="0773736e-6e78-4fa6-bb50-f729cd3181c6" name="TextTemplateBindings" profile="TextTemplateBindings">
+      <elementDefinition Id="c3bfdf65-5db4-4260-aaa0-b5729ac1b97b" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="0bac411e-1048-4b76-9fe1-c5b3d90a2edf">
+          <propertyInstance Id="70bbabdf-b975-4512-9a5d-ed25bdc3b9e3" name="Alias" value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate">
+            <elementDefinition Id="5dd18fd3-5a04-46c4-93c6-3be461285b33" />
+          </propertyInstance>
+          <elementDefinition Id="aedf9b34-19cd-49eb-81a8-e1eb802044c2" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="f5af1273-14f7-4991-80c1-5c9c86625733">
+          <propertyInstance Id="b47ffd38-7262-4d2b-b914-ad9c0eed3ff5" name="TemplateFilePath" value="ClassTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4">
+            <elementDefinition Id="94551aa6-4c34-4e41-bbcb-373f745b1154" />
+          </propertyInstance>
+          <elementDefinition Id="471513ee-c2f2-4081-9243-e917e4794cef" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="7dde04a4-e4e2-4c10-b7a9-d713a5e9e9b1">
+          <propertyInstance Id="7b2b6129-2883-4d0a-90f3-d6451240424f" name="ProjectPath" value="ClassTemplate=..\CrsWrk2DiagramsLib\CrsWrk2DiagramsLib.csproj|EnumTemplate=..\CrsWrk2DiagramsLib\CrsWrk2DiagramsLib.csproj|InterfaceTemplate=..\CrsWrk2DiagramsLib\CrsWrk2DiagramsLib.csproj|StructTemplate=..\CrsWrk2DiagramsLib\CrsWrk2DiagramsLib.csproj">
+            <elementDefinition Id="2955d23a-1a5a-4632-8e73-e8f5ed8627f6" />
+          </propertyInstance>
+          <elementDefinition Id="fb4d5191-bc11-48c3-9db9-e602eb4b3e69" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="3d7d1dc0-4326-40ba-ac63-fe48b1569e9c">
+          <propertyInstance Id="315b7b98-56de-4b48-a57b-805e222fd4f8" name="TargetDirectory" value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}">
+            <elementDefinition Id="36fc5e04-3aeb-41fc-9710-0b0682115b77" />
+          </propertyInstance>
+          <elementDefinition Id="b76ea604-b700-4946-ac59-e86517d15cae" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="9baa4bd2-e3bd-4e35-af3d-29c5e9d86a7d">
+          <propertyInstance Id="80877644-0ed8-4525-9ba3-12a1cda34077" name="TargetName" value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}">
+            <elementDefinition Id="809c91ea-9780-4c6a-afa3-3258a1ad07c0" />
+          </propertyInstance>
+          <elementDefinition Id="24f60cca-798e-41c7-9517-dd911872ccbb" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="be15c248-e67b-4c78-83e6-676b61bcfd16">
+          <propertyInstance Id="90b2b8dc-88ef-4b05-909f-18806c5187b2" name="Overwrite" value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True">
+            <elementDefinition Id="c21d4d52-c229-48db-a00b-b35671364dc7" />
+          </propertyInstance>
+          <elementDefinition Id="1aaf0db1-72cb-45de-81e4-215aae2a6866" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="08cc9bcf-0254-4fda-8a9c-5022309bae54">
+          <propertyInstance Id="76e29104-0e7e-4c13-8103-7cc5c2d69e1e" name="Parameters">
+            <elementDefinition Id="f9a4a7d3-7d4b-480f-a73f-5382fa55d9a9" />
+          </propertyInstance>
+          <elementDefinition Id="fa8cc91f-5458-4f04-b5c9-54efcc121c3c" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="3a6ffa2e-7cd0-48ab-a580-1efc1e2d5b33" name="CookStateChart" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="3898ffe9-3cde-49a9-8593-a77c0850ded0" />
+        <nodes>
+          <initialNode Id="fe6ec031-1e05-49b6-a0d4-7e5ff9cf9d1d" name="Initial1" isLeaf="false">
+            <elementDefinition Id="99a61db7-5bfb-4989-952b-d38e570d407b" />
+            <flowNodeTargets>
+              <controlFlow Id="de8cc915-0454-4ac7-aa8c-a9e46386d203" guard="PVG Checks" isLeaf="false">
+                <opaqueActionMoniker Id="3d0e6ebc-fa5c-46f0-8e7c-73ce21e249f0" LastKnownName="AwaitingResult" />
+                <elementDefinition Id="b11149dc-d9a3-43ff-bfa8-9f630b849b47" />
+              </controlFlow>
+              <controlFlow Id="49604da7-74f9-466e-b078-0f5001a220c7" guard="Food Cerification" isLeaf="false">
+                <opaqueActionMoniker Id="39f70eaa-bf60-4b2c-8862-ac3a5938736d" LastKnownName="None" />
+                <elementDefinition Id="7a059e14-6e6f-4f25-a304-1aed5caa663c" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction Id="3d0e6ebc-fa5c-46f0-8e7c-73ce21e249f0" name="AwaitingResult" isLeaf="false">
+            <elementDefinition Id="d88f67c0-df5c-41f3-b99f-a3ede73ea8b0" />
+            <flowNodeTargets>
+              <controlFlow Id="9e6218a9-abc1-4e2d-8433-96f9736c9e65" guard="failed/" isLeaf="false">
+                <opaqueActionMoniker Id="717f71ea-dd54-49eb-b927-41f488183cf3" LastKnownName="Rejected" />
+                <elementDefinition Id="70f3e899-ce8d-4ffc-880b-23ddb468dc0e" />
+              </controlFlow>
+              <controlFlow Id="54e0329a-fb80-4eb4-ae27-1a58946e93c1" guard="passed/" isLeaf="false">
+                <opaqueActionMoniker Id="82bf4028-3bda-4368-8432-832999e123e4" LastKnownName="OK" />
+                <elementDefinition Id="16f9c9ec-b9bc-413a-bfcf-4f68307adcb3" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="717f71ea-dd54-49eb-b927-41f488183cf3" name="Rejected" isLeaf="false">
+            <elementDefinition Id="da9301b7-ab55-409a-bead-ef81a22680c9" />
+            <flowNodeTargets>
+              <controlFlow Id="b3e12fb5-26f6-4f64-a034-b77e97a17971" isLeaf="false">
+                <activityFinalNodeMoniker Id="d0a7be39-4e10-4a39-b63b-bb9cbee69006" LastKnownName="ActivityFinal1" />
+                <elementDefinition Id="cacd9c25-1a49-423c-99d3-86e3e04236ac" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="82bf4028-3bda-4368-8432-832999e123e4" name="OK" isLeaf="false">
+            <elementDefinition Id="8d9ac985-cd92-4f60-980b-18defe973266" />
+          </opaqueAction>
+          <opaqueAction Id="39f70eaa-bf60-4b2c-8862-ac3a5938736d" name="None" isLeaf="false">
+            <elementDefinition Id="53831ae3-ace4-4323-bc02-b02a4ab1fe73" />
+            <flowNodeTargets>
+              <controlFlow Id="13ec23c6-f446-4c88-8689-9e461bc4b84f" guard="completed/" isLeaf="false">
+                <opaqueActionMoniker Id="108c0542-7243-417e-9e99-06a45af8deca" LastKnownName="OK" />
+                <elementDefinition Id="488f2c1c-f7d8-49cf-8aed-582ee593f194" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="a8b8f716-bb44-4e9b-83c0-1832a36ce824" name="RenewalIn3Months" isLeaf="false">
+            <elementDefinition Id="3150b592-9c1c-4c63-a9c1-75922959c351" />
+            <flowNodeTargets>
+              <controlFlow Id="62b46f14-5602-448c-b074-635be2ceb15e" guard="completed/" isLeaf="false">
+                <opaqueActionMoniker Id="108c0542-7243-417e-9e99-06a45af8deca" LastKnownName="OK" />
+                <elementDefinition Id="77ec2663-f595-4932-ad98-f43712f37646" />
+              </controlFlow>
+              <controlFlow Id="c9e5721a-7d79-4c50-ab3a-5297344a1280" guard="not completed/" isLeaf="false">
+                <opaqueActionMoniker Id="39f70eaa-bf60-4b2c-8862-ac3a5938736d" LastKnownName="None" />
+                <elementDefinition Id="c4e88f4b-4192-4145-ac33-59cc9e3fb93f" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction Id="108c0542-7243-417e-9e99-06a45af8deca" name="OK" isLeaf="false">
+            <elementDefinition Id="37747387-0a35-4b5b-91fd-bfd8627be0f8" />
+            <flowNodeTargets>
+              <controlFlow Id="f07089d1-b8f0-46d9-b677-73d68b4ec187" guard="3 months before expiry/" isLeaf="false">
+                <opaqueActionMoniker Id="a8b8f716-bb44-4e9b-83c0-1832a36ce824" LastKnownName="RenewalIn3Months" />
+                <elementDefinition Id="82240e42-341b-4645-9cd5-20976f8abc7b" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <activityFinalNode Id="d0a7be39-4e10-4a39-b63b-bb9cbee69006" name="ActivityFinal1" isLeaf="false">
+            <elementDefinition Id="8bbee7af-1972-4f96-af25-718029501021" />
+          </activityFinalNode>
+        </nodes>
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="9d640473-e246-4889-bba0-69cc456ea631" name="CrsWrk2Diagrams">
+    <elementDefinition Id="959f75d0-0362-4986-90af-c55263a91d7c" />
+    <profileInstances>
+      <packageHasProfileInstances Id="ace5dac3-bce8-4796-9251-3c643d3c8c16">
+        <profileInstance Id="06f66e81-bcd1-4bbf-9f0a-3fa48df2288c" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="18719797-60e3-4628-844f-587fbc3351d1">
+        <profileInstance Id="7d65cdf5-77b4-4335-9902-27b8e652e455" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="e1df6186-7476-44bc-818b-b4f2906dbdb8">
+        <profileInstance Id="236e3a33-b39b-47be-b3bf-553eeb546e7f" name="CSharpProfile">
+          <elementDefinition Id="55426838-a8b3-4539-b593-24db99aecd0b" />
+        </profileInstance>
+        <elementDefinition Id="cfd76aff-83d9-4806-8029-8bb18124da8d" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="b7fb6a20-0c32-4b6c-af60-a68bcb44b8cd">
+        <profileInstance Id="06e8919c-b194-4b6c-ad7d-abc292a571b1" name="TextTemplateBindings">
+          <elementDefinition Id="998ff34f-39ac-49e6-bfe7-3c4efe7965b2" />
+        </profileInstance>
+        <elementDefinition Id="2cdb2cbf-d91a-42c7-b86f-887950164588" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</activityRootModel>
